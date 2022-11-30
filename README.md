@@ -6,8 +6,7 @@ To furthest explore the modality contribution, we propose a two-branch modality 
 ## Architecture
 ![](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/TQ7BRBRQ%5D4EAGNB2S66U9TT.png)
 ## Requirements
-Our code is written by Python, based on Pytorch (Version ≥ 1.4)
-NVIDIA GTX 2080Ti (~12G of memory)
+Our code is written by Python, based on Pytorch (Version ≥ 1.4), with NVIDIA GTX 2080Ti (~12G of memory)
 ## Datasets
 [CMU_MOSEI](https://aclanthology.org/P18-1208.pdf)/[CMU_MOSI](https://ieeexplore.ieee.org/document/7742221)
 ## Usage
