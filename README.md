@@ -12,7 +12,7 @@ Our code is written by Python, based on Pytorch (Version ≥ 1.4), with NVIDIA G
 ## Usage
 1.Clone the repository
 ``` 
-git clone https://github.com/hjcocoa/SIMSUF.git
+git clone https://github.com/HumanCenteredUndestanding/SIMSUF.git
 ```
 2.Download dataset config and put the split dataset folders into $ROOT_DIR/datasets/. The folders are arranged like this:
 ```
