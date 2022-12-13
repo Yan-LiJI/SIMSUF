@@ -9,6 +9,7 @@ We propose a SIngle-Modal guided SUpplementary Fusion (SIMSUF) approach to reali
 Our code is written by Python, based on Pytorch (Version ≥ 1.4)
 ## Datasets
 [CMU_MOSEI](https://aclanthology.org/P18-1208.pdf)/[CMU_MOSI](https://ieeexplore.ieee.org/document/7742221)
+
 The SIMSUF uses feature files that are organized as follows:
 ``` 
 {
