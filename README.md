@@ -9,6 +9,26 @@ We propose a SIngle-Modal guided SUpplementary Fusion (SIMSUF) approach to reali
 Our code is written by Python, based on Pytorch (Version ≥ 1.4)
 ## Datasets
 [CMU_MOSEI](https://aclanthology.org/P18-1208.pdf)/[CMU_MOSI](https://ieeexplore.ieee.org/document/7742221)
+The SIMSUF uses feature files that are organized as follows:
+``` 
+{
+    "train": {
+        "raw_text": [],              # raw text
+        "audio": [],                 # audio feature
+        "vision": [],                # video feature
+        "id": [],                    # [video_id$_$clip_id, ..., ...]
+        "text": [],                  # bert feature
+        "text_bert": [],             # word ids for bert
+        "audio_lengths": [],         # audio feature lenth(over time) for every sample
+        "vision_lengths": [],        # same as audio_lengths
+        "annotations": [],           # strings
+        "classification_labels": [], # Negative(0), Neutral(1), Positive(2). Deprecated in v_2.0
+        "regression_labels": []      # Negative(<0), Neutral(0), Positive(>0)
+    },
+    "valid": {***},                  # same as "train"
+    "test": {***},                   # same as "train"
+}
+```
 ## Usage
 1.Clone the repository
 ``` 
