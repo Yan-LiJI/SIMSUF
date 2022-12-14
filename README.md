@@ -229,3 +229,7 @@ git clone https://github.com/HumanCenteredUndestanding/SIMSUF.git
 cd src
 python main.py
   ```
+  
+## Conclusion  
+  
+In this paper, we proposed a SIMSUF approach for multimodal sentiment analysis. In the approach, we contributed to multimodal sentiment analysis through multimodal supplementary, modality-specific and modality-common representation enhancement, and effective modal-guided multimodal fusion. Our approach was evaluated in two commonly used datasets. Expensive experiments and ablation studies demonstrated the effectiveness of our approach.
