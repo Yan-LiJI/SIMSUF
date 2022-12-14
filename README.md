@@ -169,7 +169,7 @@ We perform our methods in two datasets for multimodal sentiment analysis. We use
   </td>
  </tr>
 </tbody></table>
- **Visualization**
+**Visualization**
 
 Here, we further visualize feature distributions of hidden representations in our SIMSUF model via the tSNE projections.
 * Visualization Sample1
