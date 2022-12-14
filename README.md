@@ -169,17 +169,43 @@ We perform our methods in two datasets for multimodal sentiment analysis. We use
   </td>
  </tr>
 </tbody></table>
-### Visualization
+ ** Visualization **
 
 Here, we further visualize feature distributions of hidden representations in our SIMSUF model via the tSNE projections.
 * Visualization Sample1
+
 The visualization of the outputs of main-line modal supplementary learning.
 
 ![Visualization1.pdf](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/original.pdf)  
 * Visualization Sample2
-The distribution of the features which are outputs of common modality enhancement operation.
+
+The distribution of the features which are outputs of  main-line modal supplementary learning.
 
 ![Visualization2.pdf](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/sup.pdf)  
+
+* Visualization Sample3
+
+The distribution of the features which are outputs of common modality enhancement operation.
+
+![Visualization3.pdf](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/common.pdf)  
+
+* Visualization Sample4
+
+The distribution of the features which are outputs of semantic difference enhancement.
+
+![Visualization4.pdf](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/fm2.pdf)  
+
+* Visualization Sample5
+
+The distribution of the features which are outputs of distribution difference enhancement.
+
+![Visualization5.pdf](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/fm3.pdf) 
+
+* Visualization Sample6
+
+The distribution of the features which are outputs of specific-modality enhancement module.
+
+![Visualization6.pdf](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/specific.pdf)
 
 ## Usage
 1.Clone the repository
