@@ -31,7 +31,7 @@ The SIMSUF uses feature files that are organized as follows:
 }
 ```
 ## Results
-We perform our methods in two datasets for multimodal sentiment analysis. We use the same metric set that has been consistently presented and compared before. Mean absolute error (MAE) is the average mean difference value between predicted values and truth values. Pearson correlation (Corr) measures the degree of prediction skew. Seven-class classification accuracy (Acc-7) indicates the proportion of predictions that correctly fall into the same interval of seven intervals between -3 and +3 as the corresponding truths. Binary classification accuracy (Acc-2) and F1 score are computed for positive/negative and non-negative/negative classification results. The results are listed in table. 
+We use the same metric set that has been consistently presented and compared before. Mean absolute error (MAE) is the average mean difference value between predicted values and truth values. Pearson correlation (Corr) measures the degree of prediction skew. Seven-class classification accuracy (Acc-7) indicates the proportion of predictions that correctly fall into the same interval of seven intervals between -3 and +3 as the corresponding truths. Binary classification accuracy (Acc-2) and F1 score are computed for positive/negative and non-negative/negative classification results. The results are listed in table. 
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
