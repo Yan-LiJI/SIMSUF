@@ -182,8 +182,8 @@ The visualization of the outputs of main-line modal supplementary learning.
 
 The distribution of the features which are outputs of  main-line modal supplementary learning.
 
-![Visualization2.pdf]
-<img src="https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/sup.pdf" width="200">
+![Visualization2.pdf](https://github.com/HumanCenteredUndestanding/SIMSUF/blob/main/sup.pdf)  
+
 
 * Visualization Sample3
 
